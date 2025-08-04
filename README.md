@@ -23,11 +23,6 @@ This project is a simplified clone of LinkedIn, built as a part of a full-stack 
 
 ## Demo
 
-[Link to live demo]
-
-## Admin/Demo User Logins
-
-- **Email:** demo@example.com
-- **Password:** password
+https://linkedinclone-ebon.vercel.app
 
 
